@@ -1,0 +1,8 @@
+* normal MVC
+
+- http://localhost/websites/ssl_python/day1/index.py
+
+* framework
+
+- http://localhost:8080/
+	- and I think http://localhost:8080/about works too
